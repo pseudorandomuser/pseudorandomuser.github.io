@@ -189,7 +189,8 @@ social_links:
 
 # Build settings
 # highlighter: none
-theme: jekyll-theme-yat
+# theme: jekyll-theme-yat
+remote_theme: jeffreytse/jekyll-theme-yat
 markdown: kramdown
 kmarkdown:
   input: GFM

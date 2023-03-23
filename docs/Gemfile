@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "github-pages", "~> 228"
-  gem "jekyll-theme-yat", "~> 1.9.0"
+  # gem "jekyll-theme-yat", "~> 1.9.0"
   gem "jekyll-feed", "~> 0.15.1"
   gem "jekyll-redirect-from", "0.16.0"
 end
