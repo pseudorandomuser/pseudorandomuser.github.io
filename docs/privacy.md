@@ -15,7 +15,7 @@ United States
 
 This is the recipient of your personal data. This constitutes a legitimate interest in accordance with [Article 6 (1) sentence 1 lit. f GDPR](https://gdpr-info.eu/art-6-gdpr/) in not having to maintain a server on my premises. The servers of [GitHub Inc.](https://github.com/) are located in the United States of America.
 
-For more information on how to object to the processing of your personal data, or to remove any previously processed personal data through GitHub, see: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
+For more information on how to object to the processing of your personal data or to remove any previously processed personal data through GitHub, see: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
 
 ## Collected personal data
 
@@ -40,7 +40,7 @@ I have linked multiple personal profiles on third-party platforms on this websit
 
 ## Open source
 
-This website is open-source. You are free to copy, modify and use it in compliance with the [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0.html). The source code of this website can be obtained at the following address: [https://github.com/pseudorandomuser/pseudorandomuser.github.io](https://github.com/pseudorandomuser/pseudorandomuser.github.io)
+This website is open-source. You are free to copy, modify and use it in compliance with the [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0.html). The source code of this website can be obtained from the following repository: [pseudorandomuser/pseudorandomuser.github.io](https://github.com/pseudorandomuser/pseudorandomuser.github.io)
 
 ## Your rights
 
