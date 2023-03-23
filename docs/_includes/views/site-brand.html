@@ -1,0 +1,12 @@
+<a class="site-brand-inner" rel="author" href="{{ "/" | relative_url }}">
+  <img class="site-favicon" title="{{ site.title | escape }}" src="{{ site.favicon }}" onerror="this.style.display='none'">
+  {{ site.title | escape }}
+</a>
+{%- if site.social_links -%}
+{%- for social_link in site.social_links -%}
+  <a href="{{ social_link.url }}" style="text-decoration: none;">
+    <img src="/assets/images/icons/social/{{ social_link.kind }}.png"
+     style="max-height: 25px; padding-bottom: 5px; padding-left: 8px;"></img>
+  </a>
+{%- endfor -%}
+{%- endif -%}

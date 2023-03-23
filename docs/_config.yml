@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: $ ./jost.sh ⏎
+title: Pit Jost
 email: contact@jost.sh
 author: Pit Jost
 
@@ -40,17 +40,17 @@ author: Pit Jost
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright © {currentYear} {author}"
+copyright: "Content Copyright © {currentYear} {author}"
 
-description: >-
-  This website is dedicated to showcasing my current and past projects,
-  and to allow anyone who might be interested to easily get in touch with me.
-  New content will arrive as I take on new endeavors.
-  For further information, head over to the About section!
+description: Personal website
+# This website is dedicated to showcasing my current and past projects,
+# and to allow anyone who might be interested to easily get in touch with me.
+# New content will arrive as I take on new endeavors.
+# For further information, head over to the About section!
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
-# favicon: "" # the favicon for your site
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. https://example.com
+# favicon: "/assets/images/icons/favicon-32x32.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -131,6 +131,16 @@ header_pages:
   - curriculum.md
   - contact.md
   - privacy.md
+
+social_links:
+  - kind: github
+    url: https://github.com/pseudorandomuser
+  - kind: linkedin
+    url: https://www.linkedin.com/in/pit-jost
+  - kind: soundcloud
+    url: https://soundcloud.com/pseudorandomuser
+  - kind: email
+    url: "mailto:{email}"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
