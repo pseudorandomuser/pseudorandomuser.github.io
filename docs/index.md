@@ -10,5 +10,5 @@ subheading: >-
   easily get in touch with me. New content will arrive as I
   take on new endeavors. For further information, head over to the
   About section!
-banner: "/assets/images/banners/home.png"
+# banner: "/assets/images/banners/home.png"
 ---
