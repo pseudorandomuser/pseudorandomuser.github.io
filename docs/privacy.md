@@ -15,28 +15,28 @@ United States
 
 This is the recipient of your personal data. This constitutes a legitimate interest in accordance with [Article 6 (1) sentence 1 lit. f GDPR](https://gdpr-info.eu/art-6-gdpr/) in not having to maintain a server on my premises. The servers of [GitHub Inc.](https://github.com/) are located in the United States of America.
 
-For more information on how to object to and remove GitHub, see: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
+For more information on how to object to the processing of your personal data, or to remove any previously processed personal data through GitHub, see: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
 
 ## Collected personal data
 
-[GitHub Inc.](https://github.com/) collects the following data in log files, which your browser transmits:
+[GitHub Inc.](https://github.com/) collects the following data in log files, which is transmitted by your browser upon requesting this website:
 
-* IP address
-* The address of the previously visited website (referrer request header)
+* Your IP address
+* HTTP status code
+* Content of the request
+* Amount of data transferred
 * Date and time of the request
 * Time zone difference to Greenwich Mean Time
-* Content of the request
-* HTTP status code
-* Amount of data transferred
 * Information about browser and operating system versions
+* The address of the previously visited website (referrer request header)
 
 This is necessary to display this website and to ensure stability and security. This constitutes a legitimate interest of [GitHub Inc.](https://github.com/) in accordance with [Article 6 (1) sentence 1 lit. f GDPR](https://gdpr-info.eu/art-6-gdpr/).
 
-There is no tracking and I do not have direct access to this data, but only receive an anonymous, statistical summary. This includes the frequency of each page viewed and the number of unique visitors. I do not aggregate, scrape or otherwise process this data with any other data in any way.
+I do not have direct access to this data, but only receive an anonymous, statistical summary. This includes the frequency of each page viewed and the number of unique visitors. I do not aggregate, scrape or otherwise process this data with any other data in any way. No other means of tracking through external analytics providers of any kind is implemented.
 
 ## Social media
 
-I have linked multiple personal profiles on third-party platforms (namely [Github](https://github.com), [LinkedIn](https://www.linkedin.com/) and [SoundCloud](https://soundcloud.com)) on this website. If you proceed to any of these external services, you are leaving the scope covered by this privacy policy, and the privacy policy of the respective services apply.
+I have linked multiple personal profiles on third-party platforms on this website, namely [Github](https://github.com), [LinkedIn](https://www.linkedin.com/) and [SoundCloud](https://soundcloud.com). If you proceed to any of these external services, you are leaving the scope covered by this privacy policy, and the privacy policies of the respective services apply.
 
 ## Open source
 
@@ -44,7 +44,7 @@ This website is open-source. You are free to copy, modify and use it in complian
 
 ## Your rights
 
-You have the right to object to the processing of your personal data, the right to inquire about any personal data being processed as well as the right to erasure, also known as the right to be forgotten. Whether the objection is successful must be determined within the boundaries of a weighing of interests.
+You have the right to object to the processing of your personal data, the right to inquire about any personal data being processed as well as the right to erasure, also known as the right to be forgotten. Whether the objection is successful must be determined individually within the boundaries of a weighing of interests.
 
 The data will be deleted as soon as the purpose of its processing no longer applies.
 
