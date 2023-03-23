@@ -11,8 +11,8 @@ source "https://rubygems.org"
 group :jekyll_plugins do
   gem "github-pages", "~> 228"
   # gem "jekyll-theme-yat", "~> 1.9.0"
+  # gem "jekyll-redirect-from", "0.16.0"
   gem "jekyll-feed", "~> 0.15.1"
-  gem "jekyll-redirect-from", "0.16.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -128,7 +128,6 @@ night_mode: "on"
 header_pages:
   - index.md
   - about.md
-  - curriculum.md
   - contact.md
   - privacy.md
 

@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Coming soon...
+[Coming soon...](/assets/documents/curriculum.pdf)
