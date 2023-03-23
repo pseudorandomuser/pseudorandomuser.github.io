@@ -1,12 +1,12 @@
-<a class="site-brand-inner" rel="author" href="{{ "/" | relative_url }}">
+<a class="site-brand-inner" style="margin-right: 10px;" rel="author" href="{{ "/" | relative_url }}">
   <img class="site-favicon" title="{{ site.title | escape }}" src="{{ site.favicon }}" onerror="this.style.display='none'">
   {{ site.title | escape }}
 </a>
 {%- if site.social_links -%}
 {%- for social_link in site.social_links -%}
-  <a href="{{ social_link.url | replace: '(email)', site.email }}" style="text-decoration: none;">
-    <img src="/assets/images/icons/social/{{ social_link.kind }}.png"
-     style="max-height: 25px; padding-bottom: 5px; padding-left: 10px;"></img>
-  </a>
+<a href="{{ social_link.url | replace: '(email)', site.email }}" style="text-decoration: none;">
+  <img src="/assets/images/icons/social/{{ social_link.kind }}.png"
+    style="max-height: 35px; margin-bottom: 4px; margin-left: 10px;"></img>
+</a>
 {%- endfor -%}
 {%- endif -%}
