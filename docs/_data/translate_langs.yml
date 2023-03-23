@@ -1,0 +1,30 @@
+# Translate languges
+# langs refer to https://cloud.google.com/translate/docs/languages
+
+# - lang: en
+#   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+#   text: English
+
+# - lang: lb
+#   img: https://cdn.countryflags.com/thumbs/luxembourg/flag-400.png
+#   text: Lëtzebuergesch
+
+# - lang: fr
+#   img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+#   text: Français
+
+# - lang: de
+#   img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
+#   text: Deutsch
+
+#   - lang: zh-CN
+#     img: https://cdn.countryflags.com/thumbs/china/flag-400.png
+#     text: 中文
+
+#   - lang: ja
+#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+#     text: Japanese
+#
+#   - lang: ko
+#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
+#     text: Korean
