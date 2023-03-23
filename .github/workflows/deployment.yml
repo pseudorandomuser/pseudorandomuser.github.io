@@ -34,10 +34,14 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./docs
-          destination: ./docs/_site
+          source: docs
+          destination: docs/_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
+        with:
+          name: github-pages
+          path: docs/_site
+          retention-days: 1
 
   # Deployment job
   deploy:
