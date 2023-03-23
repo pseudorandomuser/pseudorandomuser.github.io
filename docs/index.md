@@ -3,12 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-heading: Personal website of Pit Jost
+heading: Nocturnal Networking Tales
 subheading: >-
-  This website is dedicated to showcasing my current and past
-  projects, and to allow anyone who might be interested to
-  easily get in touch with me. New content will arrive as I
-  take on new endeavors. For further information, head over to the
-  About Me section!
-# banner: "/assets/images/banners/home.png"
+  This website is dedicated to pieces of literature mainly revolving around
+  computer networking, carefully crafted at unspeakable times of night, showcasing
+  my past and current projects . New content will arrive as I take on new endeavors.
 ---

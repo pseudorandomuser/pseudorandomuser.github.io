@@ -42,11 +42,7 @@ author: Pit Jost
 #
 copyright: "Content Copyright © {currentYear} {author}"
 
-description: Personal website
-# This website is dedicated to showcasing my current and past projects,
-# and to allow anyone who might be interested to easily get in touch with me.
-# New content will arrive as I take on new endeavors.
-# For further information, head over to the About section!
+description: Nocturnal Networking Tales
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. https://example.com
