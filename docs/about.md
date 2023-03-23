@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-permalink: /about/
+permalink: /about
 ---
 
 [Coming soon...](/assets/documents/curriculum.pdf)

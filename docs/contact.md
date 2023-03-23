@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Contact
-permalink: /contact/
+permalink: /contact
 ---
 
 Coming soon...

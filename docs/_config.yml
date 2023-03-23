@@ -129,7 +129,6 @@ header_pages:
   - index.md
   - about.md
   - contact.md
-  - privacy.md
 
 social_links:
   - kind: github
@@ -139,7 +138,7 @@ social_links:
   - kind: soundcloud
     url: https://soundcloud.com/pseudorandomuser
   - kind: email
-    url: "mailto:contact@jost.sh"
+    url: "mailto:(email)"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also

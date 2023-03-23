@@ -9,6 +9,6 @@ subheading: >-
   projects, and to allow anyone who might be interested to
   easily get in touch with me. New content will arrive as I
   take on new endeavors. For further information, head over to the
-  About section!
+  About Me section!
 # banner: "/assets/images/banners/home.png"
 ---
