@@ -4,6 +4,8 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
+Last updated: Thursday, March 23th 2023 at 18:58 CET
+
 ## Recipient of personal data
 
 I use the following provider to make this website available:
@@ -32,7 +34,7 @@ For more information on how to object to the processing of your personal data or
 
 This is necessary to display this website and to ensure stability and security. This constitutes a legitimate interest of [GitHub Inc.](https://github.com/) in accordance with [Article 6 (1) sentence 1 lit. f GDPR](https://gdpr-info.eu/art-6-gdpr/).
 
-I do not have direct access to this data, but only receive an anonymous, statistical summary. This includes the frequency of each page viewed and the number of unique visitors. I do not aggregate, scrape or otherwise process this data with any other data in any way. No other means of tracking through external analytics providers of any kind is implemented.
+I do not have direct access to this data, but only receive an anonymous, statistical summary. This includes the frequency of each page viewed and the number of unique visitors. I do not scrape, aggregate with any other data or otherwise process this data in any way. No other means of tracking through external analytics providers of any kind are implemented.
 
 ## Social media
 
@@ -40,12 +42,12 @@ I have linked multiple personal profiles on third-party platforms on this websit
 
 ## Open source
 
-This website is open-source. You are free to copy, modify and use it in compliance with the [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0.html). The source code of this website can be obtained from the following repository: [pseudorandomuser/pseudorandomuser.github.io](https://github.com/pseudorandomuser/pseudorandomuser.github.io)
+This website is open-source. You are free to copy, modify and distribute it in compliance with the [GNU General Public License 3](https://www.gnu.org/licenses/gpl-3.0.html). The source code of this website can be obtained from the following repository: [pseudorandomuser/pseudorandomuser.github.io](https://github.com/pseudorandomuser/pseudorandomuser.github.io)
 
 ## Your rights
 
 You have the right to object to the processing of your personal data, the right to inquire about any personal data being processed as well as the right to erasure, also known as the right to be forgotten. Whether the objection is successful must be determined individually within the boundaries of a weighing of interests.
 
-The data will be deleted as soon as the purpose of its processing no longer applies.
+Any personal data will be deleted as soon as the purpose of its processing no longer applies.
 
 GitHub has implemented compliance measures for international data transfers. These apply to all worldwide activities in which GitHub processes personal data of natural persons in the EU. These measures are based on the EU Standard Contractual Clauses (SCCs). For more information see: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors)
