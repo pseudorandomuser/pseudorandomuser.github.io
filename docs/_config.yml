@@ -140,7 +140,7 @@ social_links:
   - kind: soundcloud
     url: https://soundcloud.com/pseudorandomuser
   - kind: email
-    url: "mailto:{email}"
+    url: "mailto:contact@jost.sh"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
