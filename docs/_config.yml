@@ -42,10 +42,11 @@ author: Pit Jost
 #
 copyright: "Copyright © {currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  This website is dedicated to showcasing my current and past projects,
+  and to allow anyone who might be interested to easily get in touch with me.
+  New content will arrive as I take on new endeavors.
+  For further information, head over to the About section!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
