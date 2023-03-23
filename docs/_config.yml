@@ -40,7 +40,7 @@ author: Pit Jost
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Content Copyright © {currentYear} {author}"
+copyright: "Copyright © {currentYear} {author}"
 
 description: Nocturnal Networking Tales
 

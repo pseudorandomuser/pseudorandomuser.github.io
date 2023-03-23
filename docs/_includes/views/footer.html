@@ -11,14 +11,16 @@
             | replace: '(p)', '℗'
             | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
         -%}
-      <div>{{ copyright }}</div>
-      <div>Powered by
-        <a title="Jekyll is a simple, blog-aware, static site generator." href="https://jekyllrb.com/">Jekyll</a> and
-        <a title="Yat, yet another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a></div>
-      <div class="footer-col">Hosted by <a href="https://pages.github.com/">GitHub Pages</a></div>
-      <div class="footer-col rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Subscribe via RSS</a></div>
-      <div class="footer-col"><a href="/privacy">Privacy policy</a></div>
-      <div class="footer-col"><a href="/imprint">Imprint</a></div>
+        <div class="footer-col" style="float:left; width:60%;margin-bottom:50px;">
+          <div class="footer-col">{{ copyright }}</div>
+          <div class="footer-col">Hosted by <a href="https://pages.github.com/">GitHub Pages</a></div>
+          <div class="footer-col">Based on <a href="https://jekyllrb.com/">Jekyll</a> <a href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a></div>
+        </div>
+        <div style="float:right;width:40%;">
+          <div class="footer-col rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Subscribe via RSS</a></div>
+          <div class="footer-col"><a href="/privacy">Privacy policy</a></div>
+          <div class="footer-col"><a href="/imprint">Imprint</a></div>
+        </div>
     </div>
   </div>
 </footer>

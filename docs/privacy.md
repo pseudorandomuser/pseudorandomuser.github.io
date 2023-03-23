@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Privacy Policy
+title: Privacy policy
 permalink: /privacy
 ---
 
