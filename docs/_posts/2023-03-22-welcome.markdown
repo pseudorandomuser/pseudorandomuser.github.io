@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "New personal website"
+date:   2023-03-22 18:02:42 +0100
+categories: jekyll web ruby
+---
+
+This website is dedicated to showcasing my current and past projects, and to allow anyone who might be interested to easily get in touch with me. New content will arrive as I take on new endeavors.
+
+Depending on how long you have been following the stagnating development of the previous version of [jost.sh](https://www.jost.sh), you may have come across the predecessor of this website, which will be discussed in the upcoming sections.
+
+## Rocky beginnings
+
+Previously to what you are looking at right now, I had been working on a different project for a while which was hosted under the same domain name as this one:
+
+![Predecessor website](/assets/images/posts/2023-03-22-welcome_old-website.png)
+
+Ignoring the fact that it did not actually contain any valuable content in the first place, this was an awfully over-engineered piece of software for its purpose. It was built on the [Flask](https://flask.palletsprojects.com) framework with a [MongoDB](https://www.mongodb.com) database connected to the backend, and it ran in a Docker container on a dedicated virtual machine within a fortified VLAN inside of my home network, which was deployed on my virtualization cluster. You can have a look at the source code of the project [here](https://github.com/pseudorandomuser/homepage).
+
+This had numerous drawbacks, not least of which being that I never got around to implementing any useful functionality due to the amount of work it would have taken, and that it significally increased the attack surface of my home network. Any exploitable vulnerabilities in any part of the tech stack that I used could have exposed the network to threats from the outside. As I built most of the backend from scratch by myself and had not spent any time reviewing the code in general, this was not an unlikely scenario.
+
+Although the dedicated webserver was connected to the network via a segregated VLAN, and despite having set up restrictive firewall rules at both the server and network gateway level, it still left a bad taste in my mouth to have the webserver exposed to the public, and given that all I ever needed was a platform to publish the occasional blog post on anyways, the effort required to develop, maintain and secure this project clearly exceeded all reasonable boundaries.
+
+## Revelation: GitHub Pages
+
+In the end, the previously mentioned hardships have led me to the decision to scrap the project entirely, and host an entirely new project on [GitHub Pages](https://pages.github.com/) and build it based on [Jekyll](https://jekyllrb.com/) due to its integration with GitHub Pages. This is what you are looking at right now.
+
+## The future
+
+You can expect posts about my current and future projects on here in the future.
