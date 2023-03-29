@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-heading: Nocturnal Networking Tales
+heading: Nocturnal Developer Tales
 subheading: >-
-  This website is dedicated to pieces of writing mainly revolving around computer networking, carefully crafted at unspeakable times of night, showcasing my past and current projects. New content will arrive as I take on new endeavors. Multiple coffee beans have been harmed in the making of this project.
+  This website is dedicated to showcasing my past and current projects related to computer networking, software development, home automation and more. All content is carefully crafted at unspeakable times of night. Multiple coffee beans have been harmed in the making of this project.
 ---
