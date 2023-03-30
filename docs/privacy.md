@@ -4,7 +4,11 @@ title: Privacy policy
 permalink: /privacy
 ---
 
-Last updated: Thursday, March 24th 2023 at 13:19 CET
+Last updated: Thursday, March 30th 2023 at 16:52 CET
+
+## Preamble
+
+In today's times, security and privacy are essential aspects of how we use online services, and as such, practices related to these aspects shall be handled as transparently as possible towards users of any online service. Therefore, this privacy policy is intended to outline the types of personal data collected by this service, who your personal data is processed by and your rights concerning any processing of your personal data.
 
 ## Recipient of personal data
 
