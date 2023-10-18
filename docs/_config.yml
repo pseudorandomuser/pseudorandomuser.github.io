@@ -24,9 +24,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pit Jost
-email: contact@jost.sh
 author: Pit Jost
+title: Pit Jost
+
+email: contact@jost.sh
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -42,7 +43,7 @@ author: Pit Jost
 #
 copyright: "Copyright © {currentYear} {author}"
 
-description: Nocturnal Developer Tales
+description: Pit Jost's Personal Homepage
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -129,12 +130,15 @@ header_pages:
 social_links:
   - kind: github
     url: https://github.com/pseudorandomuser
+    text: "Visit my GitHub profile"
   - kind: linkedin
     url: https://www.linkedin.com/in/pit-jost
+    text: "Visit my LinkedIn profile"
   - kind: soundcloud
     url: https://soundcloud.com/pseudorandomuser
   - kind: email
     url: "mailto:(email)"
+    text: "Send me an email"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
