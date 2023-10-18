@@ -10,6 +10,8 @@ permalink: /ginventory
 
 ### Sir Chill Gin
 
+![](/assets/images/gins/sirchill.png)
+
 "The gin and tonic has saved more Englishmen's lives and minds, than all the doctors in the Empire." - Sir Winston Churchill
 
 Sir Chill Gin is really an absolute newcomer in terms of taste. Sweet notes complement juniper and mandarin aromas before the light aroma of tobacco plants becomes noticeable on the palate. Anyone who has a passion for discovery is in good hands here and will enjoy putting this gin through its paces.
@@ -22,6 +24,8 @@ Sir Chill Gin is really an absolute newcomer in terms of taste. Sweet notes comp
 
 ### Saigon Baigur Dry Gin
 
+![](/assets/images/gins/baigur.png)
+
 A total of 16 botanicals, many of them from regional origins, are contained in this gin. In addition to Buddha's Hand, you will find many exotic botanicals in Saigon Baigur Dry Gin. These include dragon fruit, lotus flowers and lemongrass. Chili, pepper, cardamom and the warm aromas of cinnamon provide a pleasant heat and spice. The result is a fruity drinking experience that is characterized by new, exotic aromas and always brings to life the fine, spicy nuances of the various botanicals.
 
 | Country of Origin | Vietnam                                                                                             |
@@ -31,6 +35,8 @@ A total of 16 botanicals, many of them from regional origins, are contained in t
 | Alcohol Volume    | 43%                                                                                                 |
 
 ### Hapusa Himalayan Dry Gin
+
+![](/assets/images/gins/hapusa.png)
 
 For a long time, India, the homeland of Gin & Tonic, was not represented in the global gin scene. Despite the country's impressive botanical diversity, connoisseurs searched in vain for an authentic Indian gin. That has now changed thanks to the startup Nao Spirits. With Hapusa Himalaya Gin, the founders present the world's first Himalayan Dry Gin, which delights on the nose with the earthy scent of pine forests and on the palate with the aromas of Indian wildflowers.
 
@@ -42,6 +48,8 @@ For a long time, India, the homeland of Gin & Tonic, was not represented in the 
 
 ### KI NO BI SEI Kyoto Dry Gin
 
+![](/assets/images/gins/kinobisei.png)
+
 Japan is known for its long tradition and modern craftsmanship. These two components are of course also combined in KI NO BI SEI Kyoto Dry Gin. Japanese botanicals such as yellow yuzu, hinoki wood chips (Japanese cypress), bamboo, goyokuro tea and green sansho berries (Japanese peppercorns) are used for production. Now all botanicals are macerated and distilled separately. Then comes the so-called blending. The blending process is also called Konwa and this involves creating and composing harmony. The KI NO BI SEI Kyoto Dry Gin contains exactly the same 11 botanicals as the classic KI NO BI. The botanicals are distilled in the same six aroma categories. This means that the botanicals are divided into 6 aroma groups (bases, citrus, tea, herbs, spices, flowers) and distilled separately from the other aroma groups. It is then refined with the famous Fushimi water.
 
 | Country of Origin | Japan                                                                          |
@@ -51,6 +59,8 @@ Japan is known for its long tradition and modern craftsmanship. These two compon
 | Alcohol Volume    | 54,5%                                                                          |
 
 ### Roku Craft Gin
+
+![](/assets/images/gins/roku.png)
 
 This perfectly balanced gin is created in Japanese craft tradition, with the greatest care and masterful precision. Its flavor profile is made up of the combination of six Japanese botanicals - yuzu peel, sakura flower, sakura leaves, sencha tea, gyokuro tea and sansho pepper - with eight traditional gin ingredients. The Japanese botanicals used are harvested according to the “SHUN” principle in the right season and at their optimal ripeness, when they have achieved their perfect taste, and are individually distilled in different pot stills. This allows the aroma of each botanical to be extracted in the best possible way.
 
@@ -62,6 +72,8 @@ This perfectly balanced gin is created in Japanese craft tradition, with the gre
 
 ### Illusionist Gin
 
+![](/assets/images/gins/illusionist.png)
+
 Complex sensory properties thanks to floral and fruity aromas. Mediterranean touch with rosemary, lavender, chamomile, coriander seeds. More balanced aromas from mace, juniper, angelica root. Fruity with orange, lemon, grapefruit and cranberries. The unique blue of Illusionist Dry Gin mysteriously transforms into a soft pink when mixed with tonic water or other acidic drinks.
 
 | Country of Origin | Bavaria, Germany           |
@@ -71,6 +83,8 @@ Complex sensory properties thanks to floral and fruity aromas. Mediterranean tou
 | Alcohol Volume    | 45%                        |
 
 ### Neeka Lisbon Gin Distiller's Cut 04
+
+![](/assets/images/gins/neeka09.png)
 
 Lisbon, the pearl of Portugal, fascinates with its alluring beauty and irresistible charm. The city stretches along the majestic Atlantic coast and reveals breathtaking panoramas. Let yourself be seduced by the sensual aromas of fresh, juicy sour cherries and enjoy the diversity of Lisbon.
 
@@ -83,6 +97,8 @@ Limited to 795 bottles.
 
 ### Aviation Gin
 
+![](/assets/images/gins/aviation.png)
+
 A strong juniper character with grainy tones and light notes of cardamom, anise and lavender. Made in a stainless steel pot still and bottled by hand.
 
 | Country of Origin | USA                       |
@@ -93,6 +109,8 @@ A strong juniper character with grainy tones and light notes of cardamom, anise 
 
 ### Iron Balls Gin
 
+![](/assets/images/gins/ironballs.png)
+
 A base alcohol made from pineapple and coconut is used as the basis for the Iron Gin Balls. This sounds exotic to us, but in Thailand it is completely normal. The pineapple and coconut are picked by hand and gently fermented and then distilled. All other ingredients will be available later. Juniper is the only botanical that is used from far away. The exact recipe is kept very secret. Only very small batches of this premium gin are bottled in the small and futuristic micro still.
 
 | Country of Origin | Thailand                                             |
@@ -102,6 +120,8 @@ A base alcohol made from pineapple and coconut is used as the basis for the Iron
 | Alcohol Volume    | 40%                                                  |
 
 ### Adamus Dry Gin
+
+![](/assets/images/gins/adamus.png)
 
 The Adamus Dry Gin is probably the most glamorous gin on the market. As the first spirit creation from Destilaria Levira from Bairrada, Portugal, it outshines the competition with the design of its bottle alone. The square vessel in glossy white is crowned with a matching wooden cork. And in terms of taste, this premium gin also delivers what its appearance promises.
 
@@ -126,6 +146,8 @@ A variety of oils from fruits and herbs collected on the Mediterranean coast and
 ## Other Drinks
 
 ### Glenfiddich Scotch Whisky 12 Years
+
+![](/assets/images/gins/glenfiddich.png)
 
 Glenfiddich, near Dufftown in Scottish Speyside, is one of the last (really large) distilleries that is still family-owned. Since its founding in 1886, the distillery in the Hirsche Valley has belonged to the Grant family for the fifth generation. The company was the first to open its doors to the public in 1969 and has since been visited by over 3 million whiskey curious enthusiasts. From the start, the whiskey is made with spring water from the Robbie Dhu spring. Today, Glenfiddich is the only distillery that uses fresh water from the same source for all process steps. The whiskey matures in selected American bourbon and Spanish sherry casks. This is what makes the Glenfiddich 12 Year Old so soft, slightly fruity and balanced.
 
@@ -169,6 +191,8 @@ Desperados is an international tequila-flavored beer that was the first of its k
 | Alcohol Volume    | 5,9%       |
 
 ### Disaronno Originale
+
+![](/assets/images/gins/disaronno.png)
 
 It's Amaretto, there's not really much else to say about it.
 
