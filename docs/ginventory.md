@@ -137,6 +137,8 @@ Sun-ripened baga grapes from the region serve as the basis. Other botanicals inc
 
 ### Fever Tree Mediterranean Tonic
 
+![](/assets/images/gins/fevertree_mediterranean.png)
+
 A variety of oils from fruits and herbs collected on the Mediterranean coast and the highest quality quinine from the fever trees of eastern Congo characterize this tonic water.
 
 | Country of Origin | Germany                                                                             |
@@ -158,6 +160,8 @@ Glenfiddich, near Dufftown in Scottish Speyside, is one of the last (really larg
 | Alcohol Volume    | 40%                                                                                 |
 
 ### Desom Pinot Gris Grand Premier Cru
+
+![](/assets/images/gins/desom_grandpremiercru.png)
 
 | Country of Origin | Luxembourg        |
 | Type              | Pinot Gris        |
@@ -183,6 +187,8 @@ Very light yellow color. The aroma evokes a delicate hop flower. Sparkling sensa
 
 ### Desperados
 
+![](/assets/images/gins/desperados.png)
+
 Desperados is an international tequila-flavored beer that was the first of its kind to hit the German market in 1996. The lager gets its typical taste from the addition of tequila flavors. Desperados contains 5.9% vol. Alcohol and is typically served with a lime wedge in the neck of the bottle and drunk straight from the bottle. Since there is no real tequila in the drink, it is already permitted to be sold to young people aged 16 and over in Germany and Austria.
 
 | Country of Origin | France     |
@@ -203,6 +209,8 @@ It's Amaretto, there's not really much else to say about it.
 
 ### Aperol
 
+![](/assets/images/gins/aperol.png)
+
 The recipe for Aperol originated at the beginning of the 20th century: the brothers Silvio and Luigi Barbieri developed the aperitif in 1919 exclusively for the Padua International Fair. The name Aperol is derived from French and is based on a synonym for “aperitif”.
 
 | Country of Origin | Italy          |
@@ -211,6 +219,8 @@ The recipe for Aperol originated at the beginning of the 20th century: the broth
 | Alcohol Volume    | 11%            |
 
 ### Campari
+
+![](/assets/images/gins/campari.png)
 
 | Country of Origin | Italy    |
 | Type              | Aperitif |
