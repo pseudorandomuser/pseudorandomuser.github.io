@@ -66,7 +66,7 @@ This perfectly balanced gin is created in Japanese craft tradition, with the gre
 
 | Country of Origin | Japan                                          |
 | Type              | Dry Gin                                        |
-| Botanicals        | Cherry blossom, Sencha tea, juniper, yuzu peel |
+| Botanicals        | Cherry Blossom, Sencha Tea, Juniper, Yuzu Peel |
 | Taste             | Fruity                                         |
 | Alcohol Volume    | 43%                                            |
 
@@ -94,6 +94,18 @@ Limited to 795 bottles.
 | Type              | Dry Gin                                               |
 | Botanicals        | Chamomile, Cardamom, Sour Cherry, Juniper, Lemongrass |
 | Alcohol Volume    | 40%                                                   |
+
+### Imkerei Oelkrug Honey Gin
+
+![](/assets/images/gins/oelkrug.png)
+
+This extraordinary gin combines the fine aromas of botanicals with the natural sweetness of exquisite honey. Both pure and mixed, it presents a very special taste experience.
+
+| Country of Origin | Tübingen, Germany          |
+| Type              | Honey Gin                  |
+| Botanicals        | Honey, Juniper             |
+| Taste             | Honey                      |
+| Alcohol Volume    | 40%                        |
 
 ### Aviation Gin
 
