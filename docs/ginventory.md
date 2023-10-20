@@ -6,9 +6,15 @@ categories: gin beverages diverse
 permalink: /ginventory
 ---
 
+Welcome to the Ginventory!
+
+This is a list of the Gins and some other beverages you can currently expect to find in my private collection. Each Gin is listed with a picture, a short description and a table outlining the Gin's unique characteristics such as country of origin, list of botanicals and the alcohol volume.
+
+My personal favorites are marked with an ASCII star (★).
+
 ## Gins
 
-### Sir Chill Gin
+### Sir Chill Gin ★
 
 ![](/assets/images/gins/sirchill.png)
 
@@ -58,7 +64,7 @@ Japan is known for its long tradition and modern craftsmanship. These two compon
 | Taste             | Spicy                                                                          |
 | Alcohol Volume    | 54,5%                                                                          |
 
-### Roku Craft Gin
+### Roku Craft Gin ★
 
 ![](/assets/images/gins/roku.png)
 
@@ -100,6 +106,8 @@ Limited to 795 bottles.
 ![](/assets/images/gins/oelkrug.png)
 
 This extraordinary gin combines the fine aromas of botanicals with the natural sweetness of exquisite honey. Both pure and mixed, it presents a very special taste experience.
+
+This particular gin was gifted to me by a dear friend, contributing some additional methaphorical sweetness to that already present from the honey.
 
 | Country of Origin | Tübingen, Germany          |
 | Type              | Honey Gin                  |
@@ -147,7 +155,7 @@ Sun-ripened baga grapes from the region serve as the basis. Other botanicals inc
 
 ## Tonics
 
-### Fever Tree Mediterranean Tonic
+### Fever Tree Mediterranean Tonic ★
 
 ![](/assets/images/gins/fevertree_mediterranean.png)
 
@@ -171,7 +179,7 @@ Glenfiddich, near Dufftown in Scottish Speyside, is one of the last (really larg
 | Taste             | Sweet basic character with fruity notes, creamy caramel, malt and a subtle oak note |
 | Alcohol Volume    | 40%                                                                                 |
 
-### Desom Pinot Gris Grand Premier Cru
+### Desom Pinot Gris Grand Premier Cru ★
 
 ![](/assets/images/gins/desom_grandpremiercru.png)
 
@@ -189,7 +197,7 @@ Crémant de Luxembourg - Poll Fabaire, Brut. A crémant from one of the market l
 | Taste             | Brut       |
 | Alcohol Volume    | 12%        |
 
-### Bofferding Pils de Tradition
+### Bofferding Pils de Tradition ★
 
 Very light yellow color. The aroma evokes a delicate hop flower. Sparkling sensation, lightness and finesse perceived in the mouth. A lager with subtle hop notes.
 
