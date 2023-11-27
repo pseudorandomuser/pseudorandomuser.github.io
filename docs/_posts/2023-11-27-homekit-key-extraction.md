@@ -77,7 +77,8 @@ Set the environment variable `CODESIGNKIT_DEFAULT_IDENTITY` to the name of your 
 $ git clone https://github.com/pseudorandomuser/KeychainKit.git
 $ cd KeychainKit
 $ mkdir dump
-$ export CODESIGNKIT_DEFAULT_IDENTITY="Apple Development: appleid@example.com (FFFFFFFFFF)"
+$ export CODESIGNKIT_DEFAULT_IDENTITY=\
+"Apple Development: appleid@example.com (FFFFFFFFFF)"
 $ swift run KeychainTool -g "com.apple.hap.pairing" 1> dump/dump.txt 2>&1
 ```
 
