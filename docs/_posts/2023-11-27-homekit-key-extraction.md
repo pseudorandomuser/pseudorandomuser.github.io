@@ -10,7 +10,7 @@ banner:
 
 To be able to interact with already paired HomeKit accessories through third-party software, such as the [Home Assistant HomeKit Device Integration](https://www.home-assistant.io/integrations/homekit_controller/), without needing to reset the accessory, it is necessary to possess the public and private keys of your HomeKit pairing identity, as well as the public key of your HomeKit accessories. These keys are used by your Apple device to establish a secure communication channel with the accessories. They are synchronized via iCloud and can be extracted from a device running macOS.
 
-One specific use-case for this is if you are trying to have Home Assistant interface with Apple HomePods, as they can not be paired using the officially supported approach. This is the goal we are going to focus on.
+One specific use-case for this is if you are trying to have Home Assistant interface with Apple HomePods to read their temperature and humidity sensor values, as they can not be paired using the officially supported approach. This is the goal we are going to focus on.
 
 This guide uses a fork of the [KeychainKit](https://github.com/pvieito/KeychainKit) project to extract the keys from the macOS Keychain, to which I have applied some minor tweaks for it work on Apple Silicon machines running a recent version of macOS. This fork and the following instructions have been tested on an Apple Silicon machine running macOS Sonoma 14.0. It is possible that future versions of macOS will prevent this from working.
 
