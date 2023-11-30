@@ -5,7 +5,7 @@ date: 2023-11-27 01:46:42 +0100
 categories: homeautomation homeassistant macos homekit
 published: true
 banner:
-    image: /assets/images/posts/homekit-key-extraction/home-assistant-gauges.png
+    image: /assets/images/posts/2023-11-27-homekit-key-extraction/home-assistant-gauges.png
 ---
 
 To be able to interact with already paired HomeKit accessories through third-party software, such as the [Home Assistant HomeKit Device Integration](https://www.home-assistant.io/integrations/homekit_controller/), without needing to reset the accessory, it is necessary to possess the public and private keys of your HomeKit pairing identity, as well as the public key of your HomeKit accessories. These keys are used by your Apple device to establish a secure communication channel with the accessories. They are synchronized via iCloud and can be extracted from a device running macOS.
@@ -61,11 +61,11 @@ $ xcode-select --switch /Applications/Xcode.app/Contents/Developer
 
 Once Xcode is installed and set up correctly, make sure to fetch your code-signing certificate via the Xcode account settings if it is not already present. This can be done under `Xcode -> Settings... -> Accounts -> Manage Certificates -> (+) -> Apple Development`, as shown below.
 
-![](/assets/images/posts/homekit-key-extraction/xcode-certificate.png)
+![](/assets/images/posts/2023-11-27-homekit-key-extraction/xcode-certificate.png)
 
 Once your certificate has been fetched, find your code-signing identity via Keychain Access. It will be named something along the lines of "Apple Development: appleid@example.com (FFFFFFFFFF)". Check its validity status once found.
 
-![](/assets/images/posts/homekit-key-extraction/keychain-access.png)
+![](/assets/images/posts/2023-11-27-homekit-key-extraction/keychain-access.png)
 
 If your certificate is shown as being invalid or not trusted, you will need to install the following two missing intermediate CA certificates:
   * Apple Worldwide Developer Relations Certificate Authority: [https://developer.apple.com/certificationauthority/AppleWWDRCA.cer](https://developer.apple.com/certificationauthority/AppleWWDRCA.cer)
@@ -252,6 +252,6 @@ $ python3 -m json.tool dump/core.config_entries
 
 Only if the JSON validation was successful, overwrite the `.storage/core.config_entries` file in your Home Assistant instance's configuration directory with the contents of your modified [`dump/core.config_entries`](dump/core.config_entries) file and start your Home Assistant instance. 
 
-![](/assets/images/posts/homekit-key-extraction/home-assistant-device.png)
+![](/assets/images/posts/2023-11-27-homekit-key-extraction/home-assistant-device.png)
 
 If you did everything right, you should now see your devices on the "Devices & services" page in the "HomeKit Device" category!
