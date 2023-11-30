@@ -92,7 +92,7 @@ As your keys are now dumped and access to the `com.apple.hap.pairing` Keychain a
 $ sudo nvram boot-args=""
 ```
 
-Reboot into recoveryOS as outlined in the first step of the [Disable System Protections](#disable-system-protections) section. Again, from within recoveryOS, open your Terminal, re-enable System Integrity Protection (SIP) and reboot your Mac back into macOS.
+Reboot into recoveryOS as outlined in the first step of the '[Disable System Protections](#disable-system-protections)' section. Again, from within recoveryOS, open your Terminal, re-enable System Integrity Protection (SIP) and reboot your Mac back into macOS.
   * Note: **It is required to connect to a network with a working Internet connection prior to re-enabling full system security.**
 
 ```bash
@@ -198,9 +198,9 @@ $ python3 -m homekit.get_accessories -f dump/pairing.json -a <DeviceName>
 
 If successful, this command will output all services exposed by the accessory. If the connection fails, this likely means that you are using the wrong HomeKit Pairing Identity with your accessory. In this case, you need to do the following:
 
-* Return to the [`Extract Information from Dump`](#extract-information-from-dump) section.
-* Repeat the first and second steps to extract `iOSPairingId`, `iOSDeviceLTPK` and `iOSDeviceLTSK` from a different identity in the dump.
-* [Update your `dump/pairing.json`](#populate-python-homekit-pairing-configuration) with the new values and try again.
+* Repeat the instructions in the '[Extract your HomeKit Pairing Identity Keys](#extract-your-homekit-pairing-identity-keys)' section.
+* Repeat the instructions in the '[Populate the Pairing Configuration for HomeKit Python](#populate-the-pairing-configuration-for-homekit-python)' section and populate your `dump/pairing.json` file with the new `iOSPairingId`, `iOSDeviceLTPK` and `iOSDeviceLTSK` values, then try establishing a connection with the command above once more.
+* Repeat as long as necessary until a connection can be established.
 
 Congratulations! You can now use the keys you extracted from your Keychain to interact with your HomeKit accessories.
 
