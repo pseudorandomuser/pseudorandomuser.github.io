@@ -12,6 +12,8 @@ Welcome to The Ginventory! This is a list of the Gins and some other beverages y
 
 My personal favorites are marked with an ASCII star (★).
 
+Last updated: Thursday, November 30th 2023 at 14:04 CET
+
 ## Gins
 
 ### Sir Chill Gin ★

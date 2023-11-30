@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Extracting HomeKit Encryption Keys from macOS Keychain"
+title: "Extracting HomeKit Encryption Keys for Home Assistant Device Integration"
 date: 2023-11-27 01:46:42 +0100
 categories: homeautomation homeassistant macos homekit
 published: true
@@ -204,7 +204,7 @@ If successful, this command will output all services exposed by the accessory. I
 
 Congratulations! You can now use the keys you extracted from your Keychain to interact with your HomeKit accessories.
 
-## Configure the HomeKit Device Home Assistant Integration
+## Configure the Home Assistant Integration for HomeKit Devices
 
 My main objective for doing this was to be able to integrate the temperature and humidity sensors in Apple HomePods into my Home Assistant ecosystem. As I already had the HomePods and they already come with the necessary hardware, I preferred to tinker around with this over having to purchase additional hardware to do the job.
 
@@ -253,5 +253,7 @@ $ python3 -m json.tool dump/core.config_entries
 Only if the JSON validation was successful, overwrite the `.storage/core.config_entries` file in your Home Assistant instance's configuration directory with the contents of your modified [`dump/core.config_entries`](dump/core.config_entries) file and start your Home Assistant instance. 
 
 ![](/assets/images/posts/2023-11-27-homekit-key-extraction/home-assistant-device.png)
+
+![](/assets/images/posts/2023-11-27-homekit-key-extraction/home-assistant-gauges.png)
 
 If you did everything right, you should now see your devices on the "Devices & services" page in the "HomeKit Device" category!
