@@ -31,6 +31,8 @@ This Gin is really an absolute newcomer in terms of taste. Sweet notes complemen
 
 ### Xolato X Gin ★
 
+![](/assets/images/posts/2023-10-18-ginventory/xolatoxgin.jpeg)
+
 The X Gin stands out from the crowd in the big wide gin world. Why? The special gin is a successful experiment made from special botanicals such as chocolate. It sounds strange at first, but the taste is an extraordinary sensory journey. The two producers Peter (distiller at Stokerij De Moor) and Patrick (chocolate expert) have been working together on this special gin since 2015. Their idea was, or still is, to create "a drink for the gods and a pure aphrodisiac" with a soft hint of cocoa and vanilla.
 
 Cocoa beans from Colombia were selected for the botanicals. Of course, the juniper should not be missing here either. There are also hazelnuts from Piedmont in Italy and almonds from Avola. Not only are the cocoa beans special, but the dried banana chips also find their way into the X Gin. Other botanicals include pepper, lemon, raspberry, vanilla pods and chili peppers from Madagascar. Here, much emphasis is placed on wild-growing rather than cultivated plants.
