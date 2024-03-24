@@ -53,7 +53,7 @@ After this, reboot your Mac once more for the change to kick in.
 
 ### Extract your Keys
 
-To extract the keys, we are going to use my Fork of the [KeychainKit](https://github.com/pseudorandomuser/KeychainKit) project. In order to be able to compile, sign and run the included `KeychainTool`, ensure that the latest version of Xcode is installed and your active developer directory is switched to your current Xcode installation.
+To extract the keys, we are going to use my fork of the [KeychainKit](https://github.com/pseudorandomuser/KeychainKit) project. In order to be able to compile, sign and run the included `KeychainTool`, ensure that the latest version of Xcode is installed and your active developer directory is switched to your current Xcode installation.
 
 ```bash
 $ xcode-select --switch /Applications/Xcode.app/Contents/Developer
@@ -242,7 +242,7 @@ For each device, add an entry to [`dump/core.config_entries`](dump/core.config_e
 }
 ```
 
-At this point, make sure you have backed up your instance, or at the possess a copy of the unmodified file you extracted from `.storage/core.config_entries`. Validate your modified [`dump/core.config_entries`](dump/core.config_entries) file using a JSON validator.
+At this point, make sure you have backed up your instance, or at least have a copy of the unmodified file you extracted from `.storage/core.config_entries`. Validate your modified [`dump/core.config_entries`](dump/core.config_entries) file using a JSON validator.
 
 You may want to **refrain from using online JSON validators**, as this file contains a multitude of sensitive values such as the keys you just extracted. One simple way to validate the modified file locally is to run the following command:
 
