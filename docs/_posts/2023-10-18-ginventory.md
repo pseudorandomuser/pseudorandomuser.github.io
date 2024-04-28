@@ -8,11 +8,7 @@ banner:
     image: /assets/images/posts/2023-10-18-ginventory/ginventory.jpeg
 ---
 
-Welcome to The Ginventory! This is a list of the Gins and some other beverages you can currently expect to find in my private collection. Each Gin is listed with a picture, a short description and a table outlining the Gin's unique characteristics such as country of origin, list of botanicals and the alcohol volume.
-
-My personal favorites are marked with an ASCII star (★).
-
-Last updated: Thursday, November 30th 2023 at 14:04 CET
+Welcome to The Ginventory! This is a list of the Gins and some other beverages you can currently expect to find in my private collection. Each Gin is listed with a picture, a short description and a table outlining the Gin's unique characteristics such as country of origin, list of botanicals and the alcohol volume. My personal favorites are marked with an ASCII star.
 
 ## Gins
 
