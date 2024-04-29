@@ -3,7 +3,6 @@ layout: post
 title: "Extracting HomeKit Encryption Keys for Home Assistant Device Integration"
 date: 2023-11-27 01:46:42 +0100
 categories: homeautomation homeassistant macos homekit
-published: true
 banner:
     image: /assets/images/posts/2023-11-27-homekit-key-extraction/home-assistant-gauges.png
 ---

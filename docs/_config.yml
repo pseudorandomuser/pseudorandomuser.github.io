@@ -181,10 +181,10 @@ banner:
 # set follow_site_theme true to make utterances' theme follow the site's
 
 # utterances:
-#   repo: "owner/repo"
+#   repo: "pseudorandomuser/pseudorandomuser.io"
 #   issue_term: "title"
-#   label: "utterances comment"
-#   theme: "github-light"
+#   label: "utterances"
+#   theme: "github-dark"
 #   follow_site_theme: true
 
 # Build settings
@@ -201,3 +201,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+  - jekyll-redirect-from
