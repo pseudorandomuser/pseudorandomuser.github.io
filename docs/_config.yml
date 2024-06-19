@@ -136,8 +136,6 @@ social_links:
   - kind: linkedin
     url: https://www.linkedin.com/in/pit-jost
     text: "Visit my LinkedIn profile"
-  - kind: soundcloud
-    url: https://soundcloud.com/pseudorandomuser
   - kind: email
     url: "mailto:(email)"
     text: "Send me an email"
