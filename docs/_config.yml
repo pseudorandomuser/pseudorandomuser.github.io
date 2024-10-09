@@ -187,8 +187,7 @@ banner:
 
 # Build settings
 # highlighter: none
-# theme: jekyll-theme-yat
-remote_theme: jeffreytse/jekyll-theme-yat
+remote_theme: jeffreytse/jekyll-theme-yat@42e5e11c709d4c2359f2118ba1e5456b4c7913f0
 markdown: kramdown
 kmarkdown:
   input: GFM
